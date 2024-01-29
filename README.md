@@ -3,6 +3,9 @@
 
 LocNav is a versatile and user-friendly Flutter application designed to enhance the user's experience in exploring and managing locations. Leveraging Geolocator and Firebase for real-time location services and backend support, this app seamlessly integrates API data, image capture, and location management in an engaging interface.
 
+## LocNav APK Recording
+- [Recording](https://drive.google.com/file/d/1_W2-OychFVbeO5pMK4UqaDbuYNKLXDXB/view?usp=share_link)
+
 ## Build and Run
 
 - Ensure that you have Flutter and Dart installed on your development machine.
