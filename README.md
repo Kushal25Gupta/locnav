@@ -48,7 +48,7 @@ Now follow these steps for Android:
  - [geocodig](https://pub.dev/packages/geocoding)
  - [google_sign_in](https://pub.dev/packages/google_sign_in)
 
- ### Ios
+ ### iOS
 
  - Set up a Firebase project on the Firebase Console.
 
@@ -67,43 +67,53 @@ Now follow these steps for Android:
 
 - Check the Firebase authentication and database rules to match your app's requirements.
 
-#### Now follow the steps given in the packages for android:-
+#### Now follow the steps given in the packages for iOS:-
  - [geolocator](https://pub.dev/packages/geolocator)
  - [imagepicker](https://pub.dev/packages/image_picker)
  - [geocodig](https://pub.dev/packages/geocoding)
  - [google_sign_in](https://pub.dev/packages/google_sign_in)
+
 ## Key Features
-- API Integration:
+
+API Integration
   - Utilizes Geolocator and Open Source Maps API for real-time location services.
   - Allows manual entry of the precise address for enhanced flexibility.
-- Image Capture:
+  
+Image Capture
   - Enables users to take pictures of specific locations or upload images from their gallery.
   - Enhances the visual experience and personalization of each location.
-- Location List View:
+    
+Location List View
   - Presents a user-friendly list view of locations, each accompanied by its title and associated image.
   - Tapping on a location item navigates to a detailed view, providing a comprehensive overview.
-- Detailed Location View:
+    
+Detailed Location View
   - Offers a detailed screen showcasing complete information about a selected location.
   - Displays title, image, and additional details for an immersive experience.
-- Navigation:
+    
+Navigation
   - Implements smooth navigation between the location list view and the detailed location view.
   - Enhances user experience by providing intuitive transitions.
-- Interactive Features:
+    
+Interactive Features
   - Empowers users to mark locations as favorites for quick access.
   - Supports location deletion, allowing users to manage their list effectively.
-- State Management:
+    
+State Management
   - Efficiently manages the app's state using Flutter's Provider for optimal performance.
   - Ensures a seamless and responsive user interface.
-- Error Handling:
+    
+Error Handling
   - Implements robust error handling to gracefully manage cases where the API is unavailable or returns errors.
   - Displays friendly error messages to guide users through unexpected situations.
-- UI/UX Design:
+    
+UI/UX Design
   - Boasts an attractive and intuitive user interface, providing a visually appealing experience.
   - Prioritizes user experience with a clean and navigable design.
-- Firebase Implementation:
+    
+Firebase Implementation
   - Integrates Firebase for backend support, utilizing the Realtime Database.
   - Persists user data, allowing seamless access and interaction with locations upon subsequent logins.
-
 
 ## Packages Used
 - __get: ^4.6.6:__. The ‘get’ package is used to handle the state management.
@@ -154,7 +164,7 @@ Now follow these steps for Android:
 Get the api_key to use the google maps.
 ## Additonal Links
 
-- [Apk link](https://drive.google.com/file/d/1f0pHL-Vvw7OLL2kb0XH11pGy9xtoXFuF/view?usp=share_link)
+- [APK link](https://drive.google.com/file/d/1f0pHL-Vvw7OLL2kb0XH11pGy9xtoXFuF/view?usp=share_link)
 
 - [Screen recording with voice over of the app prototyping](https://drive.google.com/file/d/1_W2-OychFVbeO5pMK4UqaDbuYNKLXDXB/view?usp=share_link)
 
