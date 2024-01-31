@@ -173,10 +173,13 @@ Get the api_key to use the google maps.
 
 ## Screenshots
 | Login Page | Search Page |
-| -------- | -------- |
-| ![Login & Home Page](assets/images/login.png) | ![Search Location Page](assets/images/serach.png) |
-| ![All Locations Page](assets/images/locations.png) | ![Get Details of a  locatoin Page](assets/images/detailes.png) |
-| ![Upload image Page 1](assets/images/upload1.png) | ![UPload image Page 2](assets/images/upload2.png) |
+| :--------: | :--------: |
+| ![Login & Home Page](assets/images/login.png) | ![Search Location Page](assets/images/search.png) |
+| __All Locations Page__ | __Location Details Page__ |
+| ![All Locations Page](assets/images/locations.png) | ![Location Details Page](assets/images/detailes.png) |
+| __Upload Image Page 1__ | __Upload Image Page 2__ |
+| ![Upload Image Page 1](assets/images/upload1.png) | ![UPload Image Page 2](assets/images/upload2.png) |
+| __My Locations Page__ | __Favourite Locations Page__ |
 | ![My Locations Page](assets/images/mylocations.png) | ![Favourite Locations Page](assets/images/favourites.png) |
 
 
