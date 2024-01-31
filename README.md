@@ -171,3 +171,15 @@ Get the api_key to use the google maps.
 
 - [Screen recording with voice over of the app prototyping](https://drive.google.com/file/d/1_W2-OychFVbeO5pMK4UqaDbuYNKLXDXB/view?usp=share_link)
 
+## Screenshots
+![Login & Home Page](assets/images/login.png)
+![Search Location Page](assets/images/serach.png)
+![All Locations Page](assets/images/locations.png)
+![Get Details of a  locatoin Page](assets/images/detailes.png)
+![Upload image Page 1](assets/images/upload1.png)
+![UPload image Page 2](assets/images/upload2.png)
+![My Locations Page](assets/images/mylocations.png)
+![Favourite Locations Page](assets/images/favourites.png)
+
+
+
